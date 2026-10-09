@@ -25,5 +25,8 @@ The environment needs GitHub access to this repo, since it is private.
 | `domain-modeling` | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | `grilling` | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | `improve-codebase-architecture` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `thermo-nuclear-code-quality-review` | [cursor/plugins](https://github.com/cursor/plugins/tree/main/thermos) |
 
 The mattpocock skills are copied from commit `b0618bc436ad893b3c5e84e55fba86586d34a404` and are MIT licensed; see [`third_party/mattpocock-skills/LICENSE`](third_party/mattpocock-skills/LICENSE).
+
+The Cursor skill is copied from commit `ccb5507cec1546dc88135c1139c811e6c59115ba` and is MIT licensed; see [`third_party/cursor-plugins/LICENSE`](third_party/cursor-plugins/LICENSE).
