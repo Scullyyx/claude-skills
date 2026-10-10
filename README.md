@@ -1,6 +1,6 @@
 # claude-skills
 
-Personal Claude Code skills. Each folder in `skills/` is one skill (a `SKILL.md` plus supporting files).
+Personal Claude Code skills and mods. Each folder in `skills/` is one skill (a `SKILL.md` plus supporting files); each folder in `mods/` is a plugin that changes Claude Code's interface.
 
 ## Install
 
@@ -30,3 +30,11 @@ The environment needs GitHub access to this repo, since it is private.
 The mattpocock skills are copied from commit `b0618bc436ad893b3c5e84e55fba86586d34a404` and are MIT licensed; see [`third_party/mattpocock-skills/LICENSE`](third_party/mattpocock-skills/LICENSE).
 
 The Cursor skill is copied from commit `ccb5507cec1546dc88135c1139c811e6c59115ba` and is MIT licensed; see [`third_party/cursor-plugins/LICENSE`](third_party/cursor-plugins/LICENSE).
+
+## Mods
+
+| Mod | What it does |
+|---|---|
+| [`crab-crew`](mods/crab-crew) | A progress bar above the prompt and a live panel of every subagent, showing its model, progress and estimated cost, worked by pixel crabs. |
+
+Install a mod with `/plugin install <mod> --marketplace Scullyyx/claude-skills` at the Claude Code prompt.

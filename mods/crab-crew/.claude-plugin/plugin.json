@@ -1,0 +1,9 @@
+{
+  "name": "crab-crew",
+  "version": "0.1.0",
+  "description": "A progress bar above the prompt and a live panel of every subagent (model, progress, approximate cost), worked by little pixel crabs.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Colton Sullivan"
+  }
+}

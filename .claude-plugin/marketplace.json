@@ -1,0 +1,14 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Colton Sullivan"
+  },
+  "description": "Colton Sullivan's Claude Code mods",
+  "plugins": [
+    {
+      "name": "crab-crew",
+      "source": "./mods/crab-crew",
+      "description": "A progress bar above the prompt and a live panel of every subagent (model, progress, approximate cost), worked by little pixel crabs."
+    }
+  ]
+}
