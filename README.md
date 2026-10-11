@@ -21,12 +21,29 @@ The environment needs GitHub access to this repo, since it is private.
 
 | Skill | Source |
 |---|---|
+| `ask-matt` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `code-review` | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | `codebase-design` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `diagnosing-bugs` | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | `domain-modeling` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `grill-with-docs` | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | `grilling` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `implement` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `implement-spec` | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | `improve-codebase-architecture` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `pr` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `prototype` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `research` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `retro` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `setup-matt-pocock-skills` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `tdd` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `to-spec` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `to-tickets` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `triage` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `wayfinder` | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| `wizard` | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | `thermo-nuclear-code-quality-review` | [cursor/plugins](https://github.com/cursor/plugins/tree/main/thermos) |
 
-The mattpocock skills are copied from commit `b0618bc436ad893b3c5e84e55fba86586d34a404` and are MIT licensed; see [`third_party/mattpocock-skills/LICENSE`](third_party/mattpocock-skills/LICENSE).
+The mattpocock skills are copied from commit `49dd158d1076134a641b33efb035946536778336` and are MIT licensed; see [`third_party/mattpocock-skills/LICENSE`](third_party/mattpocock-skills/LICENSE).
 
 The Cursor skill is copied from commit `ccb5507cec1546dc88135c1139c811e6c59115ba` and is MIT licensed; see [`third_party/cursor-plugins/LICENSE`](third_party/cursor-plugins/LICENSE).
